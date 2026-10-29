@@ -1,0 +1,9 @@
+[
+  "tests/test_check_list.py::test_parse_entries_tags_section",
+  "tests/test_check_list.py::test_validate_allows_repeat_across_sections",
+  "tests/test_check_list.py::test_validate_clean_list_passes",
+  "tests/test_check_list.py::test_validate_flags_duplicate_in_same_section",
+  "tests/test_check_list.py::test_validate_flags_malformed_entry",
+  "tests/test_check_list.py::test_validate_flags_short_reason",
+  "tests/test_check_list.py::test_validate_flags_tiny_list"
+]
